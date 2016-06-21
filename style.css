@@ -23,14 +23,14 @@ body,html{
 }
 
 .wrapper-t.swap-t a:active,.wrapper-t.swap-t a:hover,.wrapper-t.swap-t a:link,.wrapper-t.swap-t a:visited{
-	color:#fff;
+	color:#b3b3b3;
 	text-decoration:none;
 	border-bottom:1px solid #fff;
 	padding-bottom:.5px
 }
 
 .wrapper-b a:active,.wrapper-b a:hover,.wrapper-b a:link,.wrapper-b a:visited{
-	color:#fff;
+	color:#b3b3b3;
 	text-decoration:none;
 	border-bottom:1px solid #fff
 }
@@ -53,7 +53,7 @@ body,html{
 	width:100%;
 	height:100%;
 	background-color:#000;
-	color:#fafafa;
+	color:#b3b3b3;
 	cursor:pointer
 }
 
@@ -75,7 +75,7 @@ body,html{
 
 .swap-t{
 	background-color:#000;
-	color:#fafafa;
+	color:#b3b3b3;
 	-webkit-box-shadow:0 0 30px 0 rgba(0,0,0,.25);
 	-moz-box-shadow:0 0 30px 0 rgba(0,0,0,.25);
 	box-shadow:0 0 30px 0 rgba(0,0,0,.25)
@@ -83,7 +83,7 @@ body,html{
 
 .swap-b{
 	color:#000;
-	background-color:#fafafa
+	background-color:#b3b3b3
 }
 
 .inner-wrapper-t{
